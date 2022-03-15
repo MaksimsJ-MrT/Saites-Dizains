@@ -5,13 +5,14 @@
    margin: 10px 0;
 }
 
-  .header {
+.header {
   color: white;
   background: Purple;
   padding: 30px;
   display: inline-block;
   margin: 10px 0;
  }
+ 
 .footer {
   color: white;
   background: Purple;
